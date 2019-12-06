@@ -1,4 +1,4 @@
-## Global IP Checker on GAE using Go lang
+## Global IP Checker w GAE, Go lang
 
 ```
 go get
