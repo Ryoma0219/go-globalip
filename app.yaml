@@ -1,0 +1,6 @@
+runtime: go111
+service: go-ip
+
+handlers:
+- url: /.*
+  script: auto
